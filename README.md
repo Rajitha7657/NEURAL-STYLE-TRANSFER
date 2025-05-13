@@ -1,22 +1,22 @@
 # NEURAL-STYLE-TRANSFER
 
-# COMPANY NAME : CODTECH IT SOLUTIONS
+COMPANY NAME : CODTECH IT SOLUTIONS
 
-# NAME : M RAJITHA
+NAME : M RAJITHA
 
-# INTERN ID : CODF64
+INTERN ID : CODF64
 
-# DOMAIN : ARTIFICIAL INTELLIGENCE
+DOMAIN : ARTIFICIAL INTELLIGENCE
 
-# DURATION : 4WEEKS
+DURATION : 4WEEKS
 
-# MENTOR : NEELA SANTOSH
+MENTOR : NEELA SANTOSH
 
-# SMALL DISCRIPTION OF THE NEURAL STYLE TRANSFER :
+SMALL DISCRIPTION OF THE NEURAL STYLE TRANSFER :
 
 Neural Style Transfer (NST) is a technique in deep learning that blends the content of one image with the artistic style of another using convolutional neural networks. It works by extracting content features from one image and style features from another, then combining them to create a new image that maintains the structure of the content image while mimicking the visual style of the style image. This method is widely used in digital art and creative applications.
 
-# OUTPUT :
+OUTPUT :
 
 ![Image](https://github.com/user-attachments/assets/6e3740ad-0126-4738-a5a3-0480ca1f644b)
 
